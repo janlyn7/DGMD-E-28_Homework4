@@ -1,0 +1,30 @@
+.square{
+  background-color: #e7e7e7;
+  width: 82px;
+  height: 82px;
+  border: none;
+  color: white;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  vertical-align: baseline;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 6px 6px 8px 7px;
+  cursor: pointer;
+}
+.square:hover{
+  background-color: lightgray;
+}
+
+#grid {
+    margin: auto;
+	background-color: gray;
+    height:600px;
+    width:600px;
+    padding: 13px 12px 13px 12px;
+}
+
+#banner{
+    font-size: large;
+}
